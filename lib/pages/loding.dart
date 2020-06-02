@@ -12,11 +12,12 @@ class _LodingState extends State<Loding> {
   String time = "LODING" ;
 
   void setupWorldTime() async{
-    WorldTime instance = WorldTime(location: 'Berlin' , flag: 'germany.png' , url: 'Europe/Berlin') ;
+    WorldTime instance = WorldTime(location: 'Africa' , flag: 'germany.png' , url: 'Africa/Abidjan') ;
     await instance.getTime();
-    print(instance.time);
+   // print(instance.time);
     setState(() {
       time = instance.time;
+      print(time);
     });
   }
 
