@@ -1,18 +1,12 @@
-# worldtime
-
-A new Flutter application.
-
-![](https://drive.google.com/file/d/18nzTyh3AFnwXnf9z8Dev4oE1TrJOflMU/view?usp=sharing)
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# World Time App
+A Basic Flutter App using API(http://worldtimeapi.org)
+## App Preview
+<div>
+<img src="appImg/first.jpg" width="300" height="500"/>
+</div>
+<div>
+<img src="appImg/second.jpg" width="300" height="500"/>
+</div>
+<div>
+<img src="appImg/third.jpg" width="300" height="500"/>
+</div>
