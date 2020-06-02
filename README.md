@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![alt text](https://github.com/shekabhi/World-Time/assets/india.png?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
