@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
+![](https://drive.google.com/file/d/18nzTyh3AFnwXnf9z8Dev4oE1TrJOflMU/view?usp=sharing)
 
 ## Getting Started
 
