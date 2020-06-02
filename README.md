@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![alt text](https://github.com/shekabhi/World-Time/assets/india.png?raw=true)
+![](https://www.talkwalker.com/images/2020/blog-headers/image-analysis.png)
 
 ## Getting Started
 
